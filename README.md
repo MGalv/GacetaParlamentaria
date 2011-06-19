@@ -1,8 +1,8 @@
-# (Gaceta Parlamentaria)[http://gaceta.diputados.gob.mx/]
+# [Gaceta Parlamentaria](http://gaceta.diputados.gob.mx/)
 
 ## Objetivo
 
-Gaceta Parlamentaria es un proyecto creado para el evento de (OpenDataMX)[http://opendata.mx/], el cuál tiene como objetivo el facilitar el acceso a la información contenida en la gaceta, de manera que esta sea digerible y entendible.
+Gaceta Parlamentaria es un proyecto creado para el evento de [OpenDataMX](http://opendata.mx/), el cuál tiene como objetivo el facilitar el acceso a la información contenida en la gaceta, de manera que esta sea digerible y entendible.
 
 ## La aplicación
 
