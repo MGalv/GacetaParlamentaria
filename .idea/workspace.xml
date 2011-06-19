@@ -51,15 +51,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="api_controller.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="api_controller.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/api_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="5" selection-start="230" selection-end="413" vertical-scroll-proportion="0.27734977">
-              <folding>
-                <marker date="1308441153000" expanded="true" signature="78:223" placeholder=" ... end" />
-                <marker date="1308441153000" expanded="true" signature="133:217" placeholder="do ... end" />
-                <marker date="1308441153000" expanded="true" signature="163:209" placeholder="{ ... }" />
-              </folding>
+            <state line="9" column="0" selection-start="224" selection-end="224" vertical-scroll-proportion="-4.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="32" column="83" selection-start="1443" selection-end="1443" vertical-scroll-proportion="0.6037736">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -97,8 +102,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/db/migrate/20110617231615_create_secretaries.rb" />
-        <option value="$PROJECT_DIR$/db/migrate/20110617232458_create_gazettes.rb" />
         <option value="$PROJECT_DIR$/db/migrate/20110617231916_create_pronouncements.rb" />
         <option value="$PROJECT_DIR$/db/migrate/20110617232211_create_steps.rb" />
         <option value="$PROJECT_DIR$/app/models/secretary.rb" />
@@ -113,6 +116,8 @@
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/app/models/gazette.rb" />
         <option value="$PROJECT_DIR$/app/controllers/api_controller.rb" />
+        <option value="$PROJECT_DIR$/README" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -414,13 +419,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../citivox/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/models/step.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="27" selection-start="59" selection-end="59" vertical-scroll-proportion="-0.44444445">
@@ -521,12 +519,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/api_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="5" selection-start="230" selection-end="413" vertical-scroll-proportion="0.27734977">
-          <folding>
-            <marker date="1308441153000" expanded="true" signature="78:223" placeholder=" ... end" />
-            <marker date="1308441153000" expanded="true" signature="133:217" placeholder="do ... end" />
-            <marker date="1308441153000" expanded="true" signature="163:209" placeholder="{ ... }" />
-          </folding>
+        <state line="9" column="0" selection-start="224" selection-end="224" vertical-scroll-proportion="-4.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="83" selection-start="1443" selection-end="1443" vertical-scroll-proportion="0.6037736">
+          <folding />
         </state>
       </provider>
     </entry>
