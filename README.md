@@ -21,8 +21,9 @@ rake opendata:pronouncements # Esta tarea te permite cargar los dictamenes que s
 
 Esta se solicita de la siguiente manera mediante una petición de tipo GET:
 
-http://domain.com/gacetas.json
+http://gacetaparlamentaria.heroku.com/gacetas.json
 
+Puedes visitar la aplicación en Heroku [aquí](http://gacetaparlamentaria.heroku.com/). 
 
 # ToDo
 
